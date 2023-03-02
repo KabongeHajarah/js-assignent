@@ -1,0 +1,189 @@
+html{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 18px;
+    margin: 0;
+}
+*{
+margin: 0px;
+padding: 0px;
+
+
+}
+.icon{
+   width: 2.8%;
+   align-items: right;
+   
+}
+.divider{
+    border-bottom:1px solid rgb(141, 133, 133);
+}
+header{
+    display: flex;
+    padding: 30px 4%;
+    align-items: center;
+    justify-content: space-between;
+    color: rgb(124, 119, 119);
+    font-size:xx-large;
+    
+    
+    }
+    ul{
+    
+    font-size: 14px;
+font-weight: lighter;
+    color: rgb(95, 92, 92);
+    
+    
+    
+    }
+    .navs,li{
+    list-style: none;
+    display: inline-block;
+    padding: 0px  20px;
+    color:rgb(139, 134, 134);
+    font-weight: bold;
+    
+    }
+    .logo{
+      cursor: pointer; 
+
+
+    }
+     
+.container{
+display: flex;
+
+}
+
+
+
+
+.picture{
+    float: right;
+width: 600px;
+display: flex;
+
+
+}
+
+
+.container1{
+  justify-items: center;  
+float: left;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-right: 0px;
+padding-left: 0px;
+color: rgb(70, 68, 68);
+width: 80%;
+
+  
+}
+.buttonP{
+background-color: black;
+color: white;
+border: none;
+padding:12px ;
+margin:20px;
+border-radius: 12px;
+width: 110px;
+
+}
+.imagesf{
+display: flex;
+flex-direction: row;
+width: 100px;
+
+
+}
+.imagesf2{
+display: flex;
+flex-direction: row;
+
+}
+.production{
+
+gap: 10px;
+display: flex;
+flex-direction: column;
+
+}
+
+  
+
+.pdtn{
+flex-direction: column;
+
+}
+.texts{
+  display: flex;
+flex-direction: row;
+}
+.more-Info{
+
+  display: flexbox;
+  flex-direction: row;
+  }
+
+
+
+.pic{
+width: 300px;
+
+}
+.imagesf2, .imagesf{
+  gap: 16px;
+}
+.dinning, .whiteT{
+  width: 600px;
+  height: 450px;
+}
+.discount, .border1 ,.border2{
+  background-color: rgb(27, 26, 26);
+  color: rgb(192, 190, 190);
+  
+  
+}
+
+
+.button1{
+color: white;
+width: 110px;
+height: 40px;
+background-color: black;
+border-radius: 5px;
+border-width: 1px;
+border-color: rgb(202, 200, 195);
+
+}
+.main{
+width: 650px;
+float: left;
+height: 400px;
+}
+.imgj,.imgj2{
+width: 300px;
+}
+ .demo{
+ gap: 16px; 
+}
+.coach{
+  width: 600px;
+
+}
+.footermain{
+background-color: black;
+color: white;
+justify-content: space-between;
+display: flex;
+flex-direction: row;
+
+align-items: center;
+
+
+}
+.only{
+ font-weight: lighter ;
+ color: rgb(218, 215, 215);
+}
